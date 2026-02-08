@@ -10,12 +10,12 @@ This project implements a fully connected neural network from scratch using only
 - **Dataset**: California Housing dataset for regression task
 
 ## Advantages & Disadvantages of ReLU
-- **Advantages**
-Computationally efficient – Simple max operation
+**Advantages**
+- Computationally efficient – Simple max operation
 
-Avoids vanishing gradient – Gradient is constant for positive inputs
+- Avoids vanishing gradient – Gradient is constant for positive inputs
 
-- **Disadvantages**
-Dying ReLU problem – Neurons can become inactive
+**Disadvantages**
+- Dying ReLU problem – Neurons can become inactive
 
-Sensitive to initialization – Poor initialization can lead to dead neurons
+- Sensitive to initialization – Poor initialization can lead to dead neurons
